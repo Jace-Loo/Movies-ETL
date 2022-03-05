@@ -1,3 +1,6 @@
+# secrets
+config.py
+
 # too large to upload
 movies_metadata.csv
 ratings.csv
